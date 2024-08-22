@@ -7,10 +7,10 @@ Currently seeking 2025 Summer Internships
 
 
 ## Skills
-Technical Skills:
-Python, C, Elm, Cybersecurity, DevOps, DevSecOps, Cloud Computing, Data Analysis, Azure, Presentations, Cryptography
-Non-Technical SKills:
-Team Building, Communication
+<b>Technical Skills:
+<br>Python, C, Elm, Cybersecurity, DevOps, DevSecOps, Cloud Computing, Data Analysis, Azure, Presentations, Cryptography
+<b>Non-Technical Skills:
+<br>Team Building, Communication
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
