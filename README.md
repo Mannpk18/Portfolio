@@ -1,4 +1,4 @@
-# Hello, I'm Mann
+# Hello, I'm Mann Kaniyawala
 <a href="https://www.linkedin.com/in/mann-kaniyawala-1ab6a528b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
