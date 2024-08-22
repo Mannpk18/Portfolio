@@ -3,7 +3,7 @@
 
 I am currently pursuing an undergraduate degree in Computer Science at McMaster University. I look to develop and hone my technical and non-technical skills to help me build a good base for my future. I am quite passionate about software development, artificial intelligence, etc. Well-versed in Cloud computing, Cybersecurity, DevOps, DevSecOps, SWE, Azure, Data Analysis, etc. I am also familiar with IDEs like VSCode. Familiar with coding in Python, C, and the Basics of ELM. Innovation in the field of technology always catches my attention, I take a keen interest in new technologies building every day.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Currently seeking 2025 Summer Internships
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
