@@ -14,7 +14,7 @@ Currently seeking 2025 Summer Internships
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Python          | <a href="https://github.com/Mannpk18/Cryptocurrency-Trading-Algorithm/blob/main/CryptoProject.py">Cryptocurrency-Trading-Algorithm</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
