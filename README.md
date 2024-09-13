@@ -15,11 +15,11 @@ Currently seeking 2025 Summer Internships
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Python          | <a href="https://github.com/Mannpk18/Cryptocurrency-Trading-Algorithm/blob/main/CryptoProject.py">Cryptocurrency-Trading-Algorithm</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Python          | <a href="https://github.com/Mannpk18/Cashier-System-Python-/blob/main/Cashier">Cashier System for Cafe</a>|
+| Cybersecurity   |  <a href="https://github.com/Mannpk18/Personal-Cybersecuirty-AUdit/blob/main/Personal%20Cybersecurity%20Audit%20and%20Remediation%20Plan-%20Mann.pdf">Personal Cybersecurity Audit</a>|
+| C (Programming)      |<a href="https://github.com/Mannpk18/Sudoku-Solver/blob/main/Sudoku_Solver.c">Sudoku Solver in C</a>|
+| Elm (Programming)                  |Quiz game helping patients with Parkinson's Disease|
+| Elm (Programming)  | Elm Presentation using Anime, Recursion, Tracing etc.|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
