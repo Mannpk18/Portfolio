@@ -1,5 +1,6 @@
 # Hello, I'm Mann Kaniyawala
 <a href="https://www.linkedin.com/in/mann-kaniyawala-1ab6a528b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://drive.google.com/drive/u/0/folders/1AQBI2da86VvdCUjJWRy1jqx8rxV390cj"><img src="https://img.shields.io/badge/-Resume-000?&style=for-the-badge&logo=resume&logoColor=white" /></a>
 
 I am currently pursuing an undergraduate degree in Computer Science at McMaster University. I look to develop and hone my technical and non-technical skills to help me build a good base for my future. I am quite passionate about software development, artificial intelligence, etc. Well-versed in Cloud computing, Cybersecurity, DevOps, DevSecOps, SWE, Azure, Data Analysis, etc. I am also familiar with IDEs like VSCode. Familiar with coding in Python, C, and the Basics of ELM. Innovation in the field of technology always catches my attention, I take a keen interest in new technologies building every day.
 
