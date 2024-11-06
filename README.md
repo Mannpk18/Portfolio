@@ -4,7 +4,7 @@
 
 I am currently pursuing an undergraduate degree in Computer Science at McMaster University. I look to develop and hone my technical and non-technical skills to help me build a good base for my future. I am quite passionate about software development, artificial intelligence, etc. Well-versed in Cloud computing, Cybersecurity, DevOps, DevSecOps, SWE, Azure, Data Analysis, etc. I am also familiar with IDEs like VSCode. Familiar with coding in Python, C, and the Basics of ELM. Innovation in the field of technology always catches my attention, I take a keen interest in new technologies building every day.
 
-Currently seeking 2025 Summer Internships
+<b>Currently seeking 2025 Summer Internships</b>
 
 
 ## Skills
@@ -16,16 +16,15 @@ Currently seeking 2025 Summer Internships
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python          | <a href="https://github.com/Mannpk18/Cryptocurrency-Trading-Algorithm/blob/main/CryptoProject.py">Cryptocurrency-Trading-Algorithm</a>|
-| Python          | <a href="https://github.com/Mannpk18/Cashier-System-Python-/blob/main/Cashier">Cashier System for Cafe</a>|
-| Cybersecurity   |  <a href="https://github.com/Mannpk18/Personal-Cybersecuirty-AUdit/blob/main/Personal%20Cybersecurity%20Audit%20and%20Remediation%20Plan-%20Mann.pdf">Personal Cybersecurity Audit</a>|
-| C (Programming)      |<a href="https://github.com/Mannpk18/Sudoku-Solver/blob/main/Sudoku_Solver.c">Sudoku Solver in C</a>|
-| Elm (Programming)                  |Quiz game helping patients with Parkinson's Disease|
-| Elm (Programming)  | Elm Presentation using Anime, Recursion, Tracing etc.|
+| <b>Python</b>          | <a href="https://github.com/Mannpk18/Cryptocurrency-Trading-Algorithm/blob/main/CryptoProject.py">Cryptocurrency-Trading-Algorithm</a>|
+| <b>Python</b>          | <a href="https://github.com/Mannpk18/Cashier-System-Python-/blob/main/Cashier">Cashier System for Cafe</a>|
+| <b>Cybersecurity</b>   |  <a href="https://github.com/Mannpk18/Personal-Cybersecuirty-AUdit/blob/main/Personal%20Cybersecurity%20Audit%20and%20Remediation%20Plan-%20Mann.pdf">Personal Cybersecurity Audit</a>|
+| <b>C (Programming)</b>      |<a href="https://github.com/Mannpk18/Sudoku-Solver/blob/main/Sudoku_Solver.c">Sudoku Solver in C</a>|
+| <b>Elm (Programming)</b>                  |Quiz game helping patients with Parkinson's Disease|
+| <b>Elm (Programming)</b>  | Elm Presentation using Anime, Recursion, Tracing etc.|
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://drive.google.com/drive/u/0/folders/1SShgkHnYzFUNlxwBlGZm_bXxdmP-FR_t" target="_blank">
     <img src="https://img.shields.io/badge/-CYBERSECURITY-FF0000?style=for-the-badge&logo=cybersecurity&logoColor=white" />
