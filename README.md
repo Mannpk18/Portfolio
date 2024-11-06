@@ -48,10 +48,23 @@ Currently seeking 2025 Summer Internships
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<a href="https://drive.google.com/drive/u/0/folders/1SShgkHnYzFUNlxwBlGZm_bXxdmP-FR_t" target="_blank">
+    <img src="https://img.shields.io/badge/-CYBERSECURITY-FF0000?style=for-the-badge&logo=cybersecurity&logoColor=white" />
+</a>
+
+
+<a href="https://drive.google.com/drive/u/0/folders/1P3qT_-W3fMrewY2_L3hqDzRQz4_f7Kro" target="_blank">
+    <img src="https://img.shields.io/badge/-CLOUD%20COMPUTING-007ACC?style=for-the-badge&logo=cloud&logoColor=white" />
+</a>
+
+<a href="https://drive.google.com/drive/u/0/folders/1Bp9mLiHxA7mhyu6FLO-4mJ0_wCbeNi3E" target="_blank">
+    <img src="https://img.shields.io/badge/-DATA%20SCIENCE-2ECC71?style=for-the-badge&logo=datascience&logoColor=white" />
+</a>
+
+<a href="https://drive.google.com/drive/u/0/folders/1y8KTgW9YVjTEhzGv6NqDUm0Q87Dvj181" target="_blank">
+    <img src="https://img.shields.io/badge/-SOFTWARE%20ENG%20%2F%20PROGRAMMING-8E44AD?style=for-the-badge&logo=programming&logoColor=white" />
+</a>
+
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
