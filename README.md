@@ -8,10 +8,11 @@ Currently seeking 2025 Summer Internships
 
 
 ## Skills
-<b>Technical Skills:
-<br>Python, C, Elm, Cybersecurity, DevOps, DevSecOps, Cloud Computing, Data Analysis, Azure, Presentations, Cryptography
-<b>Non-Technical Skills:
-<br>Team Building, Communication
+<b><u>Technical Skills:</u></b>
+<br>Python, C, Elm, Java, Cybersecurity, DevOps, DevSecOps, Cloud Computing, Data Analysis, Azure, Presentations, Cryptography, Linux, TCP/IP
+<br><b><u>Non-Technical Skills:</u></b>
+<br>Team Building, Communication, Design Thinking, Communication
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -22,28 +23,6 @@ Currently seeking 2025 Summer Internships
 | Elm (Programming)                  |Quiz game helping patients with Parkinson's Disease|
 | Elm (Programming)  | Elm Presentation using Anime, Recursion, Tracing etc.|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -64,10 +43,11 @@ Currently seeking 2025 Summer Internships
 <a href="https://drive.google.com/drive/u/0/folders/1y8KTgW9YVjTEhzGv6NqDUm0Q87Dvj181" target="_blank">
     <img src="https://img.shields.io/badge/-SOFTWARE%20ENG%20%2F%20PROGRAMMING-8E44AD?style=for-the-badge&logo=programming&logoColor=white" />
 </a>
+<a href="https://drive.google.com/drive/u/0/folders/1iHzH484GGgZHf6JNOFd-HWcAd0hwWX2X" target="_blank">
+    <img src="https://img.shields.io/badge/-DEVOPS-FF5733?style=for-the-badge&logo=devops&logoColor=white" />
+</a>
 
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
